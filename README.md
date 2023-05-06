@@ -1,2 +1,2 @@
 # WebdriverIOTestFramework
-WebdriverIO test automation framework 
+WebdriverIO test automation framework
